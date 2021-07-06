@@ -14,10 +14,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SalihFurkanSaglam" alt="Halit-K" /> </p>
 
 
-## 💻 Data Visualization 
-
-<a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" height="40"/> </a>
-<a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="40"/>
 
   ## :computer: Data Visualization 
 <a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" height="40"/> </a>
