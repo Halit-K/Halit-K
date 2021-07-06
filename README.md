@@ -11,7 +11,7 @@
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/halit-kili%C3%A7-a88974215/)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:hldklc06@gmail.com)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SalihFurkanSaglam" alt="Halit-K" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Halit-K" alt="Halit-K" /> </p>
 
 
 
